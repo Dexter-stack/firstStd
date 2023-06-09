@@ -1,0 +1,15 @@
+Services\adminAuth.class
+com\mycompany\finalstd\App.class
+com\mycompany\finalstd\students_tbController.class
+Services\form.class
+Services\myConnection.class
+Services\testOracle.class
+com\mycompany\finalstd\RegisterController.class
+com\mycompany\finalstd\PrimaryController.class
+com\mycompany\finalstd\SecondaryController.class
+module-info.class
+Services\userModel.class
+com\mycompany\finalstd\loginController.class
+com\mycompany\finalstd\adminController.class
+com\mycompany\finalstd\SimpleController.class
+.netbeans_automatic_build
